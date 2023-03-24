@@ -1,0 +1,15 @@
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\kamimoto\Desktop\work\test\test\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
